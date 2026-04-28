@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=200&section=header&text=Misbah%20Hanif&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Social%20Media%20Strategist%20%7C%20Web%20Enthusiast&descAlignY=58&descSize=13&descColor=94a3b8&fontFamily=Press+Start+2P" />
-
 <!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-hanfx11-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/hanfx11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Misbah_Hanif-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/misbahhanif/)
@@ -13,12 +9,12 @@
 ---
 
 ```
- ██╗  ██╗███████╗██╗     ██╗      ██████╗
- ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
- ███████║█████╗  ██║     ██║     ██║   ██║
- ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
- ██║  ██║███████╗███████╗███████╗╚██████╔╝
- ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
+██║    ██║██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+██║ █╗ ██║█████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
+██║███╗██║██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚███╔███╔╝███████╗██████╔╝    ██████╔╝███████╗ ╚████╔╝ 
+ ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
 <div align="center">
