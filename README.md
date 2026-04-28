@@ -67,11 +67,11 @@ Saat ini saya sedang mengembangkan beberapa project yang berhubungan dengan:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanfx11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx11&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
