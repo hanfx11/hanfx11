@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/hanfx11">
-    <img width="80%" alt="Hello, I'm Hanif. Designer and Web Developer." src="./assets/gh-readme-header.png" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:30363D&height=220&section=header&text=Hello,%20I'm%20Hanif&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Designer%20%26%20Web%20Developer&descSize=18&descAlignY=55" />
 </p>
 
 <br />
