@@ -1,82 +1,80 @@
-# Halo, saya Misbah Hanif
+<p align="center">
+  <a href="https://github.com/hanfx11">
+    <img width="80%" alt="Hello, I'm Hanif. Designer and Web Developer." src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 
-```bash
-┌──(hanfx11@github)-[~/profile]
-└─$ whoami
-Misbah Hanif — Designer & Web Developer
-```
+<br />
 
-**Crafting clean interfaces, visual brands, and useful digital products.**
+I'm a passionate **Designer & Web Developer** from Indonesia 🇮🇩
 
-`Graphic Design` · `UI/UX` · `Branding` · `Front-End` · `Web Development` · `AI Tools`
+**About me**
 
----
+- 🎨 Graphic Designer focused on clean visual branding, social media design, and creative direction
 
-## Tentang Saya
+- 💻 Web Developer building landing pages, dashboards, registration websites, and management systems
 
-Saya adalah seorang **graphic designer** dan **web developer** yang fokus pada pembuatan desain visual, identitas brand, antarmuka website, serta sistem digital yang clean, fungsional, dan mudah digunakan.
+- 🚀 Interested in SaaS, POS systems, business tools, and AI-assisted workflows
 
-Saya senang menggabungkan **desain yang rapi** dengan **teknologi web** untuk membangun pengalaman digital yang tidak hanya terlihat bagus, tetapi juga punya tujuan yang jelas.
+- 🧠 I love combining design, technology, and marketing to build useful digital experiences
 
-```bash
-> focus_area
-```
+- 💬 Ask me about design, UI/UX, branding, front-end development, or AI tools
 
-- Visual branding dan identity design
-- UI/UX design untuk website dan dashboard
-- Front-end development
-- Website company profile, landing page, dan sistem manajemen
-- Eksplorasi workflow kreatif menggunakan AI tools
+<br />
 
----
+**Languages and tools**
 
-## Skill & Expertise
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
+<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" alt="github" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
-### Design
+<br />
+<br />
 
-```txt
-Figma · Adobe Photoshop · Adobe Illustrator · Canva
-Visual Branding · Social Media Design · Creative Direction · Identity Design
-```
+**Design**
 
-### Development
+- Figma, Adobe Photoshop, Adobe Illustrator, Canva
+- Visual Branding, Identity Design, Social Media Design
+- Creative Direction, Layouting, Content Design
 
-```txt
-HTML · CSS · JavaScript
-Front-End Development · SaaS · POS System · Management System
-```
+**Development**
 
-### Workflow
+- HTML, CSS, JavaScript, PHP, Laravel, Next.js
+- Front-End Development, Landing Page, Dashboard
+- SaaS, POS System, Management System
 
-```txt
-Git · GitHub · AI Tools · Design System · Content Design
-```
+<br />
 
----
+| <a href="https://github.com/hanfx11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanfx11&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Misbah Hanif's github stats" /></a> | <a href="https://github.com/hanfx11"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx11&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## Projects Interest
+<br />
 
-```bash
-> currently_interested_in
-```
+#### Things I Like to Build
 
-Saya tertarik membangun digital product yang clean, simple, dan useful, seperti:
+<a href="https://github.com/hanfx11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hanfx11&repo=simulasi-tes-cpns&theme=github_dark&hide_border=true" />
+</a>
 
-- SaaS platform
-- POS system
-- Management system
-- Dashboard admin
-- Company profile website
-- Landing page
-- AI-assisted web tools
+<br />
+<br />
 
----
+**Current focus**
 
-## Design Principle
+- Building clean and useful web interfaces
+- Improving front-end and system development skills
+- Exploring AI tools for design and development workflow
+- Creating better digital products for business and education
 
-```bash
-> design_principle
-```
+<br />
+
+**Design principle**
 
 ```txt
 Clean layout.
@@ -85,113 +83,14 @@ Useful experience.
 Better digital product.
 ```
 
-Bagi saya, desain yang bagus bukan hanya soal visual yang menarik, tetapi juga bagaimana pesan bisa tersampaikan dengan jelas dan pengalaman pengguna terasa nyaman.
+<br />
 
----
-
-## Tech Stack
-
-```bash
-> tech_stack
-```
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-</p>
-
----
-
-## Design Tools
-
-```bash
-> design_tools
-```
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00" />
-  <img src="https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00c4cc" />
-  <img src="https://img.shields.io/badge/CapCut-0d1117?style=for-the-badge&logo=capcut&logoColor=ffffff" />
-</p>
-
----
-
-## What I Like to Build
-
-```bash
-> build_list
-```
-
-- Clean and modern landing pages
-- Admin dashboards
-- Registration websites
-- Participant management systems
-- POS systems
-- SaaS-based web apps
-- Digital tools for business operations
-- Social media visual systems
-- Brand identity concepts
-
----
-
-## Current Direction
-
-```bash
-> current_status
-```
-
-Saat ini saya terus mengembangkan skill di bidang **design, front-end development, web system development, dan AI-assisted workflow**.
-
-Saya percaya AI bukan pengganti kreativitas, tetapi alat untuk mempercepat proses berpikir, eksplorasi ide, desain, dan development.
-
-```txt
-Think clearly.
-Design neatly.
-Build usefully.
-Improve continuously.
-```
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanfx11&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx11&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
----
-
-## Connect With Me
-
-```bash
-> contact
-```
-
-<p align="left">
-  <a href="https://github.com/hanfx11">
-    <img src="https://img.shields.io/badge/GitHub-hanfx11-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://www.linkedin.com/in/misbahhanif/">
-    <img src="https://img.shields.io/badge/LinkedIn-misbahhanif-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="mailto:your.misbakhulhanif123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
-</p>
-
----
-
-```bash
-┌──(hanfx11@github)-[~/end]
-└─$ thanks for visiting my profile
-```
+<a href="mailto:misbakhulhanif123@gmail.com">
+  <img align="right" alt="Misbah Hanif | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/misbahhanif/">
+  <img align="right" alt="Misbah Hanif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/hanfx11">
+  <img align="right" alt="Misbah Hanif | GitHub" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
+</a>
