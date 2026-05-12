@@ -35,14 +35,6 @@ Development  : HTML · CSS · JavaScript · PHP · Laravel · Next.js
 Focus        : UI/UX · Branding · Front-End · SaaS · POS · Management System
 Workflow     : Git · GitHub · AI Tools · Design System
 ```
-
-<br />
-
-| <a href="https://github.com/hanfx11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanfx11&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Misbah Hanif's github stats" /></a> | <a href="https://github.com/hanfx11"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanfx11&layout=compact&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br />
-
 **Design principle**
 
 ```txt
