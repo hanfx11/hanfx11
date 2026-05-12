@@ -1,18 +1,15 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,100:1F6FEB&text=hanfx11@github:~$%20whoami&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Misbah%20Hanif%20—%20Designer%20%26%20Web%20Developer&descSize=17&descAlignY=63" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,100:1F6FEB&text=%24%20echo%20%22Hello,%20I'm%20Hanif%22&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Designer%20%26%20Web%20Developer&descSize=17&descAlignY=63" />
 </p>
 
 I'm a passionate **Designer & Web Developer** from Indonesia 🇮🇩
-
 I craft clean interfaces, visual brands, and useful digital products by combining **design, technology, marketing, and AI-assisted workflows**.
 
 **About me**
-
 - 🎨 Graphic Designer focused on visual branding, social media design, and identity design
 - 💻 Web Developer building landing pages, dashboards, and management systems
 - 🚀 Interested in SaaS, POS systems, business tools, and AI-powered workflows
 - 💬 Ask me about design, UI/UX, branding, front-end development, or AI tools
-
 <br />
 
 **Languages and tools**
