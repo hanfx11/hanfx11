@@ -56,12 +56,14 @@ Better digital product.
 
 <br />
 
-<a href="mailto:misbakhulhanif123@gmail.com">
-  <img align="right" alt="Misbah Hanif | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/misbahhanif/">
-  <img align="right" alt="Misbah Hanif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/hanfx11">
-  <img align="right" alt="Misbah Hanif | GitHub" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
-</a>
+<p align="right">
+  <a href="mailto:misbakhulhanif123@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-misbakhulhanif123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/misbahhanif/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-misbahhanif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/hanfx11">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-hanfx11-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
