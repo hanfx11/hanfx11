@@ -55,9 +55,6 @@ Better digital product.
 <br />
 
 <p align="right">
-  <a href="mailto:misbakhulhanif123@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-misbakhulhanif123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/misbahhanif/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-misbahhanif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
